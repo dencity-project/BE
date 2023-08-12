@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    password: ywanginsu
+    username: damin
+    url: jdbc:mysql://db-dencity.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/dencitydb
+
