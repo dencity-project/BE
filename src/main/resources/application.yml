@@ -7,6 +7,6 @@ spring:
     username: admin
     url: jdbc:mysql://dencity-db.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/mydatabase
 
-server:
-  address: 54.180.87.174
-
+#server:
+#  address: 54.180.87.174
+#  port: 8080
