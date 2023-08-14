@@ -3,7 +3,7 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    password: ywanginsu
-    username: damin
-    url: jdbc:mysql://db-dencity.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/dencitydb
+    password: Ywanginsu!99
+    username: admin
+    url: jdbc:mysql://dencity-db.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/mydatabase
 
