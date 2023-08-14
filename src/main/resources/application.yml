@@ -8,5 +8,5 @@ spring:
     url: jdbc:mysql://dencity-db.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/mydatabase
 
 server:
-  address: 172.31.42.214
+  address: 54.180.87.174
 
