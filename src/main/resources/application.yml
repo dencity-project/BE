@@ -3,9 +3,9 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    password: Ywanginsu!99
-    username: admin
-    url: jdbc:mysql://dencity-db.c0tg3iklfpiz.ap-northeast-2.rds.amazonaws.com:3306/mydatabase
+    password: ENC(/9npc7W34XTmnwMplOYRiwaSQPUzCzUe)
+    username: ENC(s4FM9aR14QMuY7KpfVESRQ==)
+    url: ENC(+DQDpzRN5UzhU6AI7SaOEY8WWfsPwM79RPhsvj6/EeKkqiJejV2oBhRG4m1nqW9mhfHNmLWOrL0qqj25MmqXLUfXvxEhKP/0H5XS2PXi2c/RM1tS92iVL9sikLyymtXb)
 
 #server:
 #  address: 54.180.87.174

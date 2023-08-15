@@ -10,9 +10,10 @@ import java.util.List;
 @NoArgsConstructor
 public class DataResponseDto {
 
-    private JSONObject jsonObject;
+//    private JSONObject jsonObject;
+    private String jsonObject;
 
-    public DataResponseDto(JSONObject jsonObject) {
+    public DataResponseDto(String jsonObject) {
 
         this.jsonObject = jsonObject;
     }

@@ -62,6 +62,9 @@ public class HomeService {
 
         JSONObject jobj = XML.toJSONObject(String.valueOf(sb));
 
-        return new DataResponseDto(jobj);
+        System.out.println("result : ");
+        System.out.println(jobj.toString(4));
+
+        return new DataResponseDto(jobj.toString(4));
     }
 }
